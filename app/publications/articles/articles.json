@@ -1,0 +1,127 @@
+[
+    {
+        "title-turkish": "Büyükşehir Belediyelerinin İmar Denetim Yetkileri",
+        "title-english": "Zoning Control Authorities of Metropolitan Municipalities",
+        "body-turkish": "/articles/buyuksehir_imar_denetim.md"
+    },
+    {
+        "title-turkish": "Kentsel Dönüşüm/Kenti Dönüştürme ve Uygulanma Şekilleri",
+        "title-english": "Urban Transformation and Its Methods of Implementation",
+        "body-turkish": "/articles/kentsel_donusum_kent_donusturme.md"
+    },
+    { 
+        "title-turkish": "Kültür ve Tabiat Varlığı Olarak Tescil Kararı, Hukuki Niteliği ve Sonuçları",
+        "title-english": "Registration Decision as Cultural and Natural Asset, Its Legal Nature and Consequences",
+        "body-turkish": "/articles/kvtv_tescil.md"
+    }, 
+    {
+        "title-turkish": "Kültür ve Tabiat Varlıklarının Milletlerarası Korunması Bağlamında Kültürel ve Doğal Mirasın Korunması Sözleşmesi ve Dünya Miras Komitesi",
+        "title-english": "Convention on the Protection of Cultural and Natural Heritage and the World Heritage Committee in the Context of International Protection of Cultural and Natural Assets",
+        "body-turkish": "/articles/kvtv_milletlerarasi.md"
+    }, 
+    {
+        "title-turkish": "Şehir Planlamasının Temel Özellikleri ve Temel Hak ve Özgürlükler Üzerindeki Etkileri - Türk Hukukuna Özel Referansla",
+        "title-english": "Main Characteristics of Urban Planning and Its Effects on Fundamental Rights and Freedoms - With Special Reference to Turkish Law",
+        "body-turkish": "/articles/main_characteristics_urban_planning.md"    
+    },
+    {
+        "title-turkish": "Hükmün Açıklanmasının Geri Bırakılması ve Memuriyete Etkisi",
+        "title-english": "Postponement of the Announcement of the Verdict and Its Impact on Civil Service",
+        "body-turkish": "/articles/hukmun_aciklanmasi.md"    
+    },
+    {
+        "title-turkish": "12 Eylül 2010 Anayasa Değişikliklerinin Devletin Çocuğu Koruma Görevine Etkileri ve Alınacak Tedbirler",
+        "title-english": "The Effects of the September 12, 2010 Constitutional Amendments on the State's Duty to Protect Children and Measures to be Taken",
+        "body-turkish": "/articles/eylul_12.md"    
+    },
+    {
+        "title-turkish": "Sit Alanı İlanı Kararı, Hukuki Niteliği ve Sonuçları",
+        "title-english": "Decision on Declaring a Protected Area, Its Legal Nature and Consequences",
+        "body-turkish": "/articles/sit_alani_ilani.md"    
+    }, 
+    {
+        "title-turkish": "Sit Alanlarında Uygulama Önceliği ve Karma Sitler",
+        "title-english": "Priority of Implementation in Protected Areas and Mixed Sites",
+        "body-turkish": "/articles/sit_alanlarinda_uygulama.md"    
+    }, 
+    {
+        "title-turkish": "İdari Yargıda İdare Lehine Vekâlet Ücreti ve Hak Arama Özgürlüğüne Etkisi",
+        "title-english": "Attorney Fees in Favor of the Administration in Administrative Jurisdiction and Its Impact on the Freedom to Seek Justice",
+        "body-turkish": "/articles/idari_yargi_lehine.md"    
+    }, 
+    {
+        "title-turkish": "Çevre Düzeni Planlarının Niteliği ve Egemen Olan İlkeler",
+        "title-english": "The Nature of Environmental Master Plans and Prevailing Principles",
+        "body-turkish": "/articles/cevre_duzeni.md"
+    },
+    {
+        "title-turkish": "İdari Uyuşmazlıklarda Alternatif Çözüm Yolu Olarak İdari Uzlaştırma Kurulları",
+        "title-english": "Administrative Conciliation Boards as an Alternative Dispute Resolution Method in Administrative Disputes",
+        "body-turkish": "/articles/idari_uyusmazliklar.md"
+    }, 
+    {
+        "title-turkish": "Kültür ve Tabiat Varlıklarının Korunmasında İdari Yapılanmaya İlişkin Sorunlar ve Çözüm Önerileri",
+        "title-english": "Problems and Proposed Solutions Regarding Administrative Structuring in the Protection of Cultural and Natural Assets",
+        "body-turkish": "/articles/kvtv_yapilanma.md"    
+    }, 
+    {
+        "title-turkish": "Kültür ve Tabiat Varlıklarının Devlet Malı Niteliği ve Sonuçları",
+        "title-english": "The Status of Cultural and Natural Assets as State Property and Its Consequences",
+        "body-turkish": "/articles/kvtv_devlet.md"
+    },
+    {
+        "title-turkish": "Türkiye'de Hukuk Eğitiminin Sorunları ve Yeniden Düzenlenmesi",
+        "title-english": "Problems and Restructuring of Legal Education in Turkey",
+        "body-turkish": "/articles/hukuk_egitim.md"    
+    }, 
+    {
+        "title-turkish": "Organize Sanayi Bölgelerinde Tüzel Kişilik ve Kanun Değişikliği Tasarı Taslağının Değerlendirilmesi",
+        "title-english": "Legal Personality in Organized Industrial Zones and Evaluation of the Draft Law Amendment",
+        "body-turkish": "/articles/organize_sanayi.md"
+    },
+    {
+        "title-turkish": "Türkiye Futbol Federasyonunun Özerkliği ve İdari Denetim",
+        "title-english": "Autonomy of the Turkish Football Federation and Administrative Oversight",
+        "body-turkish": "/articles/futbol_federasyonu.md"    
+    }, 
+    {
+        "title-turkish": "Sporda Şiddet ve Düzensizliğin Önlenmesi, İdarenin Görev ve Yetkileri",
+        "title-english": "Prevention of Violence and Disorder in Sports, Duties and Authorities of the Administration",
+        "body-turkish": "/articles/sporda_siddet.md"    
+    },
+    {
+        "title-turkish": "Mali Piyasaların Denetimi, Yaşanan Sorunlar ve Çözüm Yolları",
+        "title-english": "Supervision of Financial Markets, Problems Encountered, and Solutions",
+        "body-turkish": "/articles/mali_piyasa.md"
+    }, 
+    {
+        "title-turkish": "Bankacılık Düzenleme ve Denetleme Kurumuna Karşı Açılacak Davalarda Yetki",
+        "title-english": "Jurisdiction in Lawsuits Against the Banking Regulation and Supervision Agency",
+        "body-turkish": "/articles/bankacilik.md"
+    },
+    {
+        "title-turkish": "Organize Sanayi Bölgelerinin Hukuki Niteliği ve Kamulaştırma Yetkisi",
+        "title-english": "Legal Status of Organized Industrial Zones and the Authority for Expropriation",
+        "body-turkish": "/articles/sanayi_kamulastirma.md"    
+    }, 
+    {
+        "title-turkish": "Kamu Görevlilerinin Naklen Atanma Kriterleri",
+        "title-english": "Criteria for the Transfer of Public Officials",
+        "body-turkish": "/articles/kamu_atama.md"    
+    },
+    {
+        "title-turkish": "Bilgi Edinme Hakkının Sınırları ve Sınırlama Ölçütleri",
+        "title-english": "Limits of the Right to Information and Criteria for Restriction",
+        "body-turkish": "/articles/bilgi_hakki.md"
+    }, 
+    {
+        "title-turkish": "Bilgi Edinme Hakkı, Önemi ve Bilgi Verme Yükümlülüğü",
+        "title-english": "The Right to Information, Its Importance, and the Obligation to Provide Information",
+        "body-turkish": "/articles/bilgi_onemi.md"    
+    },
+    {
+        "title-turkish": "5020 Sayılı Kanunla 4389 Sayılı Bankalar Kanununda Yapılan Değişiklikler",
+        "title-english": "Amendments to the Banking Law No. 4389 with Law No. 5020",
+        "body-turkish": "/articles/kanun_5020.md"
+    }
+]

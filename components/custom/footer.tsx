@@ -1,8 +1,16 @@
 'use client'
 
 import { Mail, MapPin } from "lucide-react"
+import { useState, useEffect } from "react"
 
 export default function Footer() {
+  const [time, setTime] = useState(-1);
+
+  useEffect(() => {
+    setTime(new Date().getFullYear());
+  }, []);
+
+
   return (
     <footer className="bg-[#f9f9f9]">
       <div className="max-w-6xl mx-auto">
@@ -13,14 +21,14 @@ export default function Footer() {
             <p className="text-sm text-gray-600 space-y-2">
       <span className="block">Law is order. ~ Aristotle</span>
       <span className="block">Good law is good order.</span>
-    </p>
+            </p>
           </div>
           <div>
-            <h3 className="font-semibold text-gray-900 mb-4">Contact</h3>
+            <h3 className="font-semibold text-gray-900 mb-4" id="contact">Contact</h3>
             <ul className="space-y-2 text-sm">
               <li className="flex items-center space-x-2">
                 <Mail size={16} className="text-gray-600" />
-                <a href="mailto:team@andl.io" className="text-gray-600 hover:text-gray-900">
+                <a href="mailto:team@andl.io" className="text-gray-600 hover:text-amber-600">
                   nilkercolak@gmail.com
                 </a>
               </li>
@@ -37,7 +45,7 @@ export default function Footer() {
             href="https://x.com/nilkercolak"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-gray-600 hover:text-gray-900"
+            className="text-gray-600 hover:text-amber-600"
             >
             <span className="sr-only">X (Twitter)</span>
             <svg className="h-6 w-6" fill="currentColor" viewBox="0 0 24 24">
@@ -45,10 +53,10 @@ export default function Footer() {
             </svg>
             </a>
             <a
-            href="https://linkedin.com/"
+            href="https://www.linkedin.com/in/nilker-colak/"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-gray-600 hover:text-gray-900"
+            className="text-gray-600 hover:text-amber-600"
             >
             <span className="sr-only">LinkedIn</span>
             <svg className="h-6 w-6" fill="currentColor" viewBox="0 0 24 24">
@@ -60,7 +68,7 @@ export default function Footer() {
         </div>
         <div className="px-4 py-8 border-t border-gray-200">
           <p className="text-center text-sm text-gray-600">
-            © {new Date().getFullYear()} Nusret Ilker Colak. All rights reserved.
+            © {time} Nusret Ilker Colak. All rights reserved.
           </p>
         </div>
       </div>

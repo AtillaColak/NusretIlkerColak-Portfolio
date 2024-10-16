@@ -43,9 +43,9 @@ As academics, we firmly believe that everyone possesses the right to protect the
 `
   
   return (
-    <main className="bg-[#f9f9f9] h-full w-full flex min-h-screen flex-col items-center justify-between p-6 md:p-24">
-      <div className='h-full w-full mb-8'><ImageTextCarousel images={imagesNic} texts={backgroundTexts} /></div>
+    <div className="bg-[#f9f9f9] h-full w-full flex min-h-screen flex-col items-center justify-between p-6 md:p-24">
+      <div className='h-full w-full mb-8 mt-8 md:mt-0'><ImageTextCarousel images={imagesNic} texts={backgroundTexts} /></div>
       <div className='h-full w-full'><TextSection title={declarationTitle} body={declaration}></TextSection></div>
-    </main>
+    </div>
   )
 }
