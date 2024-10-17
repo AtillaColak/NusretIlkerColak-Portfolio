@@ -9,7 +9,10 @@ import remarkGfm from 'remark-gfm';
 const escapeMarkdownContent = (content: string) => {
   return content
     .replace(/'/g, '&apos;')  // Escape single quotes
-    .replace(/"/g, '&quot;'); // Escape double quotes
+    .replace(/"/g, '&quot;')  // Escape double quotes
+    .replace(/&/g, '&amp;')    // Escape ampersand if needed
+    .replace(/</g, '&lt;')      // Escape less than symbol if needed
+    .replace(/>/g, '&gt;');     // Escape greater than symbol if needed
 }
 
 export default function Province() {
