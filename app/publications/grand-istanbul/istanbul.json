@@ -1,85 +1,191 @@
 [
     {
-        "title-turkish": "Çocuk İstismar ve Suçlarına Karşı Koruma ve Korunma Klavuzu",
-        "title-english": "Guide for Protection and Prevention Against Child Abuse and Crimes",
-        "description": "In the Revision Stage",
-        "image": "/childabuse.png"
+        "title-english": "Arnavutköy Analysis",
+        "title-turkish": "Arnavutköy Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/arnavutkoy-Picture1.png",
+        "link": "./grand-istanbul/arnavutkoy"
     },
     {
-        "title-turkish": "Büyükşehirlerde Belediyelerin Görev ve Sorumlulukları Bağlamında İstanbul Analizi I",
-        "title-english": "Analysis of Metropolitan Municipalities' Duties and Responsibilities in Istanbul I",
-        "description": "XII Levha Yayınları, İstanbul 2014",
-        "image": "https://media.babil.com/kitap/0138088_buyuksehir-belediyelerinin-gorev-ve-sorumluluklari-baglaminda-istanbul-analizi-1_320_25759.jpeg",
-        "link": "/books/istanbul_analizi.pdf"
+        "title-english": "Bağcılar Analysis",
+        "title-turkish": "Bağcılar Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/bagcilar-Picture1.png",
+        "link": "./grand-istanbul/bagcilar"
     },
     {
-        "title-turkish": "Kentsel Dönüşüm Hukuku",
-        "title-english": "Urban Transformation Law",
-        "description": "Öngören Hukuk Yayınları, İstanbul 2013",
-        "image": "https://tamadres.com/media/catalog/product/cache/7aaa48ea9734ca445e6a222a3fe7d59a/1/5/159932_9789780164644.jpg",
-        "link": "https://1000kitap.com/kitap/kentsel-donusum-rehberi--122706"
+        "title-english": "Bahçelievler Analysis",
+        "title-turkish": "Bahçelievler Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/bahcelievler-Picture1.png",
+        "link": "./grand-istanbul/bahcelievler"
     },
     {
-        "title-turkish": "Boğaziçi’nde Koruma, Planlama ve İmar Uygulamaları",
-        "title-english": "Conservation, Planning, and Zoning Practices in the Bosphorus",
-        "description": "İstanbul",
-        "image": "/bogazici.png",
-        "link": "/books/Bogazici_Koruma.pdf"
+        "title-english": "Başakşehir Analysis",
+        "title-turkish": "Başakşehir Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/basaksehir-Picture1.png",
+        "link": "./grand-istanbul/basaksehir"
     },
     {
-        "title-turkish": "Anayasa Mahkemesi Kararlarında İmar Hukukunun Temel İlkeleri",
-        "title-english": "Fundamental Principles of Zoning Law in Constitutional Court Decisions",
-        "description": "XII Levha Yayınları, Aralık 2011",
-        "image": "https://yetkin.com.tr/image/cache//catalog/product/9786055373443-2101-500x500.jpg",
-        "link": "/books/anayasa_mahkeme_kararlarinda_imar_hukukunun_temel_ilkeleri.pdf"
+        "title-english": "Bayrampaşa Analysis",
+        "title-turkish": "Bayrampaşa Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/bayrampasa-Picture1.png",
+        "link": "./grand-istanbul/bayrampasa"
     },
     {
-        "title-turkish": "İmar Planları, İmar Uygulamaları ve İptal Davaları",
-        "title-english": "Zoning Plans, Zoning Practices, and Annulment Cases",
-        "description": "(Gürsel ÖNGÖREN’le ortak yayın) Öngören Hukuk Yayınları",
-        "image": "https://static.nadirkitap.com/fotograf/1266848/28/Kitap_20220711222254126684813.jpg",
-        "link": "/books/imar_planlari_with_gursel.pdf"
+        "title-english": "Beykoz Analysis",
+        "title-turkish": "Beykoz Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/beykoz-Picture1.png",
+        "link": "./grand-istanbul/beykoz"
     },
     {
-        "title-turkish": "Hukuk Eğitimi Yöntemi Olarak, İdare Hukukunda Sanal Mahkemeler",
-        "title-english": "Virtual Courts as a Method of Legal Education in Administrative Law",
-        "description": "XII Levha Yayınları, Nisan 2011",
-        "image": "https://cdn.seckin.com.tr/getimage/book/159576912_400_wm.jpg",
-        "link": "/books/sanal_mahkemeler.pdf"
+        "title-english": "Beylikdüzü Analysis",
+        "title-turkish": "Beylikdüzü Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/beylikduzu-Picture1.png",
+        "link": "./grand-istanbul/beylikduzu"
     },
     {
-        "title-turkish": "Kültür ve Tabiat Varlıklarını Koruma Hukuku",
-        "title-english": "Law on the Protection of Cultural and Natural Assets",
-        "description": "XII Levha Yayınları Mart 2011- Güncellenmiş, Genişletilmiş ve Gözden Geçirilmiş II. Bası, XII Levha Yayınları İstanbul 2015",
-        "image": "https://m.media-amazon.com/images/I/5178Yn+JTUL._AC_UF894,1000_QL80_.jpg",
-        "link": "/books/kultur_ve_tabiat.pdf"
+        "title-english": "Beyoğlu Analysis",
+        "title-turkish": "Beyoğlu Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/beyoglu-Picture1.png",
+        "link": "./grand-istanbul/beyoglu"
     },
     {
-        "title-turkish": "İmar Hukuku",
-        "title-english": "Zoning Law",
-        "description": "I. Bası XII Levha Yayınları, İstanbul 2010- Güncellenmiş, Genişletilmiş ve Gözden Geçirilmiş II. Bası, XII Levha Yayınları İstanbul 2014",
-        "image": "https://cdn.seckin.com.tr/getimage/book/852417394_400_wm.jpg",
-        "link": "/books/imar_hukuku.pdf"
+        "title-english": "Çekmeköy Analysis",
+        "title-turkish": "Çekmeköy Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/cekmekoy-Picture1.png",
+        "link": "./grand-istanbul/cekmekoy"
     },
     {
-        "title-turkish": "Kitle İletişim Hukuku",
-        "title-english": "Mass Communication Law",
-        "description": "1.Baskı, Ankara, Seçkin Yayıncılık–2007   Güncellenmiş     2. Baskı, XII Levha Yayınları, İstanbul 2010-Güncellenmiş ve Gözden Geçirilmiş 3. Bası, XII Levha Yayınları, İstanbul 2013",
-        "image": "https://yetkin.com.tr/image//catalog/product/9786051520681-2291.jpg",
-        "link": "/books/kitle_iletisim_hukuku.pdf"
+        "title-english": "Esenler Analysis",
+        "title-turkish": "Esenler Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/esenler-Picture1.png",
+        "link": "./grand-istanbul/esenler"
     },
     {
-        "title-turkish": "AB Uyum Sürecinde İdari Reformlar İngiltere ve Türkiye",
-        "title-english": "Administrative Reforms in the EU Accession Process: The Cases of England and Turkey",
-        "description": "Ankara, Seçkin Yayıncılık–2005",
-        "image": "https://static.nadirkitap.com/fotograf/2538/5/Kitap_20150620192136_2538_4.jpg",
-        "link": "https://www.kitapyurdu.com/kitap/avrupa-birligi-uyum-surecinde-idari-reformlar-ingiltere-ve-turkiye/129180.html?srsltid=AfmBOorLVFr1VsB__rXBOsvbu9zlWiaJEwKJEEq-Rbb0Sc2UV-dLltlU"
+        "title-english": "Esenyurt Analysis",
+        "title-turkish": "Esenyurt Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/esenyurt-Picture1.png",
+        "link": "./grand-istanbul/esenyurt"
     },
     {
-        "title-turkish": "Bankacılık Düzenleme ve Denetleme Kurumu ve ABD Örneği",
-        "title-english": "Banking Regulation and Supervision Agency and the Example of the USA",
-        "description": "Ankara, Seçkin Yayıncılık–2003",
-        "image": "https://cdn.seckin.com.tr/f/seckin/kitap/347635484587634/9789753475778.jpg",
-        "link": "https://www.seckin.com.tr/kitap/bankacilik-duzenleme-ve-denetleme-kurumu-ve-abd-ornegi-nusret-ilker-colak-s-p-855173952?srsltid=AfmBOoqVH8diPZwMKbMxBi7EsKaQemisLY5_M-Q2lE9GdpDpT4O5hMs2"
+        "title-english": "Eyüp Analysis",
+        "title-turkish": "Eyüp Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/eyup-Picture1.png",
+        "link": "./grand-istanbul/eyup"
+    },
+    {
+        "title-english": "Fatih Analysis",
+        "title-turkish": "Fatih Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/fatih-Picture1.png",
+        "link": "./grand-istanbul/fatih"
+    },
+    {
+        "title-english": "Gaziosmanpaşa Analysis",
+        "title-turkish": "Gaziosmanpaşa Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/gaziosmanpasa-Picture1.png",
+        "link": "./grand-istanbul/gaziosmanpasa"
+    },
+    {
+        "title-english": "Güngören Analysis",
+        "title-turkish": "Güngören Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/gungoren-Picture1.png",
+        "link": "./grand-istanbul/gungoren"
+    },
+    {
+        "title-english": "Kağıthane Analysis",
+        "title-turkish": "Kağıthane Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/kagithane-Picture1.png",
+        "link": "./grand-istanbul/kagithane"
+    },
+    {
+        "title-english": "Küçükçekmece Analysis",
+        "title-turkish": "Küçükçekmece Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/kucukcekmece-Picture1.png",
+        "link": "./grand-istanbul/kucukcekmece"
+    },
+    {
+        "title-english": "Pendik Analysis",
+        "title-turkish": "Pendik Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/pendik-Picture1.png",
+        "link": "./grand-istanbul/pendik"
+    },
+    {
+        "title-english": "Sancaktepe Analysis",
+        "title-turkish": "Sancaktepe Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/sancaktepe-Picture1.png",
+        "link": "./grand-istanbul/sancaktepe"
+    },
+    {
+        "title-english": "Şile Analysis",
+        "title-turkish": "Şile Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/sile-Picture1.png",
+        "link": "./grand-istanbul/sile"
+    },
+    {
+        "title-english": "Şişli Analysis",
+        "title-turkish": "Şişli Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/sisli-Picture1.png",
+        "link": "./grand-istanbul/sisli"
+    },
+    {
+        "title-english": "Sultanbeyli Analysis",
+        "title-turkish": "Sultanbeyli Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/sultanbeyli-Picture1.png",
+        "link": "./grand-istanbul/sultanbeyli"
+    },
+    {
+        "title-english": "Sultangazi Analysis",
+        "title-turkish": "Sultangazi Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/sultangazi-Picture1.png",
+        "link": "./grand-istanbul/sultangazi"
+    },
+    {
+        "title-english": "Tuzla Analysis",
+        "title-turkish": "Tuzla Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/tuzla-Picture1.png",
+        "link": "./grand-istanbul/tuzla"
+    },
+    {
+        "title-english": "Ümraniye Analysis",
+        "title-turkish": "Ümraniye Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/umraniye-Picture1.png",
+        "link": "./grand-istanbul/umraniye"
+    },
+    {
+        "title-english": "Üsküdar Analysis",
+        "title-turkish": "Üsküdar Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/uskudar-Picture1.png",
+        "link": "./grand-istanbul/uskudar"
+    },
+    {
+        "title-english": "Zeytinburnu Analysis",
+        "title-turkish": "Zeytinburnu Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/zeytinburnu-Picture1.png",
+        "link": "./grand-istanbul/zeytinburnu"
     }
 ]

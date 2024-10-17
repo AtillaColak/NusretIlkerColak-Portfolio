@@ -246,5 +246,194 @@
         "title-turkish": "Genel Kolluk ve Özel Güvenlik İlişkileri",
         "title-english": "Relationships between General Security Forces and Private Security",
         "body-turkish": "/declarations/genel_kolluk.md"    
+    }, 
+    {
+        "title-english": "Arnavutköy Analysis",
+        "title-turkish": "Arnavutköy Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/arnavutkoy-Picture1.png",
+        "link": "./grand-istanbul/arnavutkoy"
+    },
+    {
+        "title-english": "Bağcılar Analysis",
+        "title-turkish": "Bağcılar Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/bagcilar-Picture1.png",
+        "link": "./grand-istanbul/bagcilar"
+    },
+    {
+        "title-english": "Bahçelievler Analysis",
+        "title-turkish": "Bahçelievler Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/bahcelievler-Picture1.png",
+        "link": "./grand-istanbul/bahcelievler"
+    },
+    {
+        "title-english": "Başakşehir Analysis",
+        "title-turkish": "Başakşehir Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/basaksehir-Picture1.png",
+        "link": "./grand-istanbul/basaksehir"
+    },
+    {
+        "title-english": "Bayrampaşa Analysis",
+        "title-turkish": "Bayrampaşa Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/bayrampasa-Picture1.png",
+        "link": "./grand-istanbul/bayrampasa"
+    },
+    {
+        "title-english": "Beykoz Analysis",
+        "title-turkish": "Beykoz Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/beykoz-Picture1.png",
+        "link": "./grand-istanbul/beykoz"
+    },
+    {
+        "title-english": "Beylikdüzü Analysis",
+        "title-turkish": "Beylikdüzü Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/beylikduzu-Picture1.png",
+        "link": "./grand-istanbul/beylikduzu"
+    },
+    {
+        "title-english": "Beyoğlu Analysis",
+        "title-turkish": "Beyoğlu Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/beyoglu-Picture1.png",
+        "link": "./grand-istanbul/beyoglu"
+    },
+    {
+        "title-english": "Çekmeköy Analysis",
+        "title-turkish": "Çekmeköy Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/cekmekoy-Picture1.png",
+        "link": "./grand-istanbul/cekmekoy"
+    },
+    {
+        "title-english": "Esenler Analysis",
+        "title-turkish": "Esenler Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/esenler-Picture1.png",
+        "link": "./grand-istanbul/esenler"
+    },
+    {
+        "title-english": "Esenyurt Analysis",
+        "title-turkish": "Esenyurt Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/esenyurt-Picture1.png",
+        "link": "./grand-istanbul/esenyurt"
+    },
+    {
+        "title-english": "Eyüp Analysis",
+        "title-turkish": "Eyüp Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/eyup-Picture1.png",
+        "link": "./grand-istanbul/eyup"
+    },
+    {
+        "title-english": "Fatih Analysis",
+        "title-turkish": "Fatih Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/fatih-Picture1.png",
+        "link": "./grand-istanbul/fatih"
+    },
+    {
+        "title-english": "Gaziosmanpaşa Analysis",
+        "title-turkish": "Gaziosmanpaşa Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/gaziosmanpasa-Picture1.png",
+        "link": "./grand-istanbul/gaziosmanpasa"
+    },
+    {
+        "title-english": "Güngören Analysis",
+        "title-turkish": "Güngören Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/gungoren-Picture1.png",
+        "link": "./grand-istanbul/gungoren"
+    },
+    {
+        "title-english": "Kağıthane Analysis",
+        "title-turkish": "Kağıthane Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/kagithane-Picture1.png",
+        "link": "./grand-istanbul/kagithane"
+    },
+    {
+        "title-english": "Küçükçekmece Analysis",
+        "title-turkish": "Küçükçekmece Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/kucukcekmece-Picture1.png",
+        "link": "./grand-istanbul/kucukcekmece"
+    },
+    {
+        "title-english": "Pendik Analysis",
+        "title-turkish": "Pendik Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/pendik-Picture1.png",
+        "link": "./grand-istanbul/pendik"
+    },
+    {
+        "title-english": "Sancaktepe Analysis",
+        "title-turkish": "Sancaktepe Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/sancaktepe-Picture1.png",
+        "link": "./grand-istanbul/sancaktepe"
+    },
+    {
+        "title-english": "Şile Analysis",
+        "title-turkish": "Şile Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/sile-Picture1.png",
+        "link": "./grand-istanbul/sile"
+    },
+    {
+        "title-english": "Şişli Analysis",
+        "title-turkish": "Şişli Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/sisli-Picture1.png",
+        "link": "./grand-istanbul/sisli"
+    },
+    {
+        "title-english": "Sultanbeyli Analysis",
+        "title-turkish": "Sultanbeyli Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/sultanbeyli-Picture1.png",
+        "link": "./grand-istanbul/sultanbeyli"
+    },
+    {
+        "title-english": "Sultangazi Analysis",
+        "title-turkish": "Sultangazi Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/sultangazi-Picture1.png",
+        "link": "./grand-istanbul/sultangazi"
+    },
+    {
+        "title-english": "Tuzla Analysis",
+        "title-turkish": "Tuzla Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/tuzla-Picture1.png",
+        "link": "./grand-istanbul/tuzla"
+    },
+    {
+        "title-english": "Ümraniye Analysis",
+        "title-turkish": "Ümraniye Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/umraniye-Picture1.png",
+        "link": "./grand-istanbul/umraniye"
+    },
+    {
+        "title-english": "Üsküdar Analysis",
+        "title-turkish": "Üsküdar Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/uskudar-Picture1.png",
+        "link": "./grand-istanbul/uskudar"
+    },
+    {
+        "title-english": "Zeytinburnu Analysis",
+        "title-turkish": "Zeytinburnu Analizi",
+        "description": "Istanbul, 2014",
+        "image": "/blogpost_images/zeytinburnu-Picture1.png",
+        "link": "./grand-istanbul/zeytinburnu"
     }
 ]

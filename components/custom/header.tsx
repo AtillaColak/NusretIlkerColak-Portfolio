@@ -112,7 +112,7 @@ const Header = () => {
               <div className="absolute top-10 left-0 w-full bg-white shadow-lg z-50 rounded-md max-h-48 overflow-y-auto">
                 {searchResults.map((result, index) => (
                   <Link
-                    href={result['body-turkish'] ? pathAssigner(result['body-turkish']) : "/publications/books"}
+                    href={result['body-turkish'] ? pathAssigner(result['body-turkish']) : (result["link"]?.startsWith("./grand-istanbul") ? "/publications/".concat(result["link"].split("./")[1]) : "/publications/books")}
                     key={index}
                     className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
                     onClick={() => { setIsOpen(false); setSearchQuery(""); setSearchResults([]) }}
