@@ -49,10 +49,12 @@ export default function Province() {
   }, [pathname]); // Listen for changes to pathname
 
   return (
-    <div className={`h-full w-full flex flex-col items-center justify-center mt-48 mb-16`}>
-      <ReactMarkdown className="prose dark:prose-invert" remarkPlugins={[[remarkGfm, { singleTilde: false }]]}>
-        {escapeMarkdownContent(markdownContent) || "**Province Not Found!**"}
-      </ReactMarkdown>
+    <div className={`h-full w-full flex flex-col items-center justify-center mt-48 mb-16 px-4`}>
+      <div className="overflow-auto w-full max-w-screen-sm">
+        <ReactMarkdown className="prose dark:prose-invert" remarkPlugins={[[remarkGfm, { singleTilde: false }]]}>
+          {escapeMarkdownContent(markdownContent) || "**Province Not Found!**"}
+        </ReactMarkdown>
+      </div>
     </div>
   );
 }

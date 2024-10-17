@@ -148,7 +148,7 @@ const Header = () => {
           <Link href="/publications/declarations" className="block py-2 px-4 text-sm hover:bg-gray-100" onClick={() => setIsOpen(false)}>
             Declarations
           </Link>
-          <Link href="/publications/grand-istanbul" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
+          <Link href="/publications/grand-istanbul" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100" onClick={() => setIsOpen(false)}>
             Istanbul Analysis
           </Link>
           <a
