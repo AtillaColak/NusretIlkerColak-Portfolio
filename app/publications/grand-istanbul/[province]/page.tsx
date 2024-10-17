@@ -3,7 +3,14 @@
 import { usePathname } from 'next/navigation';
 import ReactMarkdown from "react-markdown";
 import { useState, useEffect } from "react";
-import remarkGfm from 'remark-gfm'
+import remarkGfm from 'remark-gfm';
+
+// Function to escape quotes in the markdown content
+const escapeMarkdownContent = (content: string) => {
+  return content
+    .replace(/'/g, '&apos;')  // Escape single quotes
+    .replace(/"/g, '&quot;'); // Escape double quotes
+}
 
 export default function Province() {
   const pathname = usePathname(); // Get the full pathname
@@ -39,8 +46,8 @@ export default function Province() {
 
   return (
     <div className={`h-full w-full flex flex-col items-center justify-center mt-48 mb-16`}>
-      <ReactMarkdown className="prose dark:prose-invert" remarkPlugins={[[remarkGfm, {singleTilde: false}]]}>
-        {markdownContent || "**Province Not Found!**"}
+      <ReactMarkdown className="prose dark:prose-invert" remarkPlugins={[[remarkGfm, { singleTilde: false }]]}>
+        {escapeMarkdownContent(markdownContent) || "**Province Not Found!**"}
       </ReactMarkdown>
     </div>
   );
