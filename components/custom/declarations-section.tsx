@@ -69,7 +69,7 @@ export default function DeclarationSection({ items = [] }: TitleListProps) {
       <div className="flex-grow">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 h-full">
           {paginatedItems.map((item, index) => (
-            <Dialog key={index} onOpenChange={() => setMarkdownContent("")}>
+            <Dialog key={index} onOpenChange={() => {setMarkdownContent(""); setSelectedItem(null);}}>
               <DialogTrigger asChild>
                 <Card
                   className="h-full flex-grow cursor-pointer hover:bg-accent transition-colors"
